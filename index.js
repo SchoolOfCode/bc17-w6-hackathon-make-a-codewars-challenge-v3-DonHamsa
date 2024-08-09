@@ -1,10 +1,12 @@
 
 export  function findCountryWithMostGold(){
-  return 'Sint Maarte'
+ 
+// Type your solution in here
   
 }
 
-findCountryWithMostGold()
+
+
 
 
 

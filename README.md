@@ -4,9 +4,11 @@
 - My test gives away the answer because my function is asking for an answer rather than asking you to write a function that gives you an answer using parameters passed in.
 
 
-- Try and do it without looking at the test file which contains the answer....
+- When you think you found the correct answer go to encrypt.js and return your coded answer in index.js
 
-## Instructions
+- Dont just return the coded answer ...... without actually trying it
+
+## Getting Started
 
 1. Run `NPM run install` in the terminal 
 
