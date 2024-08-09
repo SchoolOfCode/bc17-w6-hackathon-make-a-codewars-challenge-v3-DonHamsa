@@ -1,11 +1,19 @@
 {
-  "name": "workshop_make-your-own-codewars",
+  "name": "hackathon",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
-  "author": "School of Code",
-  "license": "ISC"
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  }
 }
