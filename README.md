@@ -1,8 +1,7 @@
 # Warning
 - I Kinda messed up...
 
-- My test gives away the answer because my function is asking for an answer rather than asking you to write a function that gives you an answer using parameters passed in.
-
+- My test gives away the answer because my function is asking for an answer rather than asking you to write a function that performs a task (like adding any two numbers).
 
 - When you think you found the correct answer go to encrypt.js and return your coded answer in index.js
 
